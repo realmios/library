@@ -20,55 +20,47 @@
             "downloadURL": "https://github.com/realmios/library/releases/download/ipa/Filza_4.0.0.ipa",
             "size": 13900000
         },
-     {
-            "name": "iTorrent",
-            "bundleIdentifier": "com.xitrix.iTorrent2",
-            "developerName": "iTorrent x CyPwn",
-            "version": "2.1.1",
-            "versionDate": "2025-12-18",
-            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/iTorrent.ipa",
-            "localizedDescription": "iTorrent v2.1.1-1 by XITRIX iOS 16+",
-            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/iTorrent.png",
-            "tintColor": "FFC300",
-            "size": 8357150,
-            "screenshotURLs": [
-                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/iTorrent\/iTorrent-0.png",
-                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/iTorrent\/iTorrent-1.png"
-            ]
-        },
+
         {
-            "name": "True_Skate_1.5.102",
-            "bundleIdentifier": "com.trueaxis.skate",
-            "developerName": "True_Skate_1.5.102 x CyPwn",
-            "version": "1.5.102",
-            "versionDate": "2025-12-14",
-            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/True_Skate_1.5.102.ipa",
-            "localizedDescription": "The ultimate skateboarding sim",
-            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/True_Skate_1.5.102.png",
-            "tintColor": "FFC300",
-            "size": 121519472,
-            "screenshotURLs": [
-                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/True_Skate_1.5.102\/True_Skate_1.5.102-0.png"
-            ]
-        },
+    "name": "Realm iOS Library",
+    "identifier": "com.realmios.repo",
+    "iconURL": "https://i.imgur.com/jo4r5kP.png",
+    "apps": [ 
         {
-    "bundleIdentifier": "org.brandonplank.flappybird",
-    "name": "Flappy Bird",
-    "developerName": "Brandon Plank",
-    "iconURL": "https://pbs.twimg.com/profile_images/1564696757807632384/nyRXTe5d_400x400.jpg",
-    "tintColor": "000000",
-    "subtitle": "A revival of the once popular game.",
-    "localizedDescription": "This Flappy Bird is a revival of the original Flappy Bird by Dong Nguyen. There are a many new features to enhance gameplay as well!\n• Tap to flap\n• Avoid the hitting the pipes\n• Flap for infinity!",
-    "screenshotURLs": [
-        "https://www.techlist.pk/wp-content/uploads/2024/09/flappy-bird-1024x593.jpeg"
-    ],
-    "version": "4.3",
-    "versionDate": "2025-04-06T06:09:17+00:00",
-    "versionDescription": "ios 13.0 or later",
-    "downloadURL": "https://github.com/realmios/Realm-iOS-Repo/releases/download/ipa/org.brandonplank.flappybird.ipa",
-    "size": 2100000
-}, 
+            "bundleIdentifier": "com.tigisoftware.Filza",
+            "name": "Filza",
+            "developerName": "tigisoftware",
+            "iconURL": "https://filzadownload.com/wp-content/uploads/2019/06/icon.png",
+            "tintColor": "000000",
+            "subtitle": "FizaCrack",
+            "localizedDescription": "Filza full active by Realm iOS",
+            "screenshotURLs": [
+                "https://mrepo.org/image/filzafilemanager4.png"
+            ],
+            "version": "4.0",
+            "versionDate": "2025-04-06T06:09:17+00:00",
+            "versionDescription": "Full Active",
+            "downloadURL": "https://github.com/realmios/library/releases/download/ipa/Filza_4.0.0.ipa",
+            "size": 13900000
+        },
+    
+        {
+          "name": "Clash of Clans",
+          "bundleIdentifier": "coc.realm.ios",
+          "developerName": "iTorrent x CyPwn",
+          "version": "17.477.13",
+          "versionDate": "2025-12-24",
+          "downloadURL": "https://github.com/realmios/library/releases/download/ipa/Clash.of.Clans.ipa",
+          "localizedDescription": "UNLIMITED GOLD, UNLIMITED RESOURCES. WITHOUT BAND. UNLIMITED DEVELOPMENT.",
+          "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/14/d6/5414d699-1761-ec47-94f2-f9ebf932c660/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200ia-75.webp",
+          "tintColor": "fbf722",
+          "size": 363405378,
+          "screenshotURLs": []
+};
        
+    ],
+    "userInfo": {}
+},   
     ],
     "userInfo": {}
 }
