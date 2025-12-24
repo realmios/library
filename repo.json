@@ -20,30 +20,6 @@
             "downloadURL": "https://github.com/realmios/library/releases/download/ipa/Filza_4.0.0.ipa",
             "size": 13900000
         },
-
-        {
-    "name": "Realm iOS Library",
-    "identifier": "com.realmios.repo",
-    "iconURL": "https://i.imgur.com/jo4r5kP.png",
-    "apps": [ 
-        {
-            "bundleIdentifier": "com.tigisoftware.Filza",
-            "name": "Filza",
-            "developerName": "tigisoftware",
-            "iconURL": "https://filzadownload.com/wp-content/uploads/2019/06/icon.png",
-            "tintColor": "000000",
-            "subtitle": "FizaCrack",
-            "localizedDescription": "Filza full active by Realm iOS",
-            "screenshotURLs": [
-                "https://mrepo.org/image/filzafilemanager4.png"
-            ],
-            "version": "4.0",
-            "versionDate": "2025-04-06T06:09:17+00:00",
-            "versionDescription": "Full Active",
-            "downloadURL": "https://github.com/realmios/library/releases/download/ipa/Filza_4.0.0.ipa",
-            "size": 13900000
-        },
-    
         {
           "name": "Clash of Clans",
           "bundleIdentifier": "coc.realm.ios",
@@ -58,7 +34,7 @@
           "screenshotURLs": [
                     "https://servercocblog.wordpress.com/wp-content/uploads/2017/09/clash-of-heroes3.jpeg",
                     "https://pbs.twimg.com/media/Dun2_8jUYAAQhLk.jpg"
-          ]
+          ],
 }, 
     ],
     "userInfo": {}
