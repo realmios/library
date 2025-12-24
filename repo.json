@@ -47,7 +47,7 @@
         {
           "name": "Clash of Clans",
           "bundleIdentifier": "coc.realm.ios",
-          "developerName": "iTorrent x CyPwn",
+          "developerName": "Realm iOS",
           "version": "17.477.13",
           "versionDate": "2025-12-24",
           "downloadURL": "https://github.com/realmios/library/releases/download/ipa/Clash.of.Clans.ipa",
@@ -55,12 +55,11 @@
           "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/14/d6/5414d699-1761-ec47-94f2-f9ebf932c660/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200ia-75.webp",
           "tintColor": "fbf722",
           "size": 363405378,
-          "screenshotURLs": []
-};
-       
-    ],
-    "userInfo": {}
-},   
+          "screenshotURLs": [
+                    "https://servercocblog.wordpress.com/wp-content/uploads/2017/09/clash-of-heroes3.jpeg",
+                    "https://pbs.twimg.com/media/Dun2_8jUYAAQhLk.jpg"
+          ]
+}, 
     ],
     "userInfo": {}
 }
