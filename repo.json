@@ -30,19 +30,19 @@
           "downloadURL": "https://github.com/AhmedBafkir/DLiPA/releases/download/v1.1/DLiPA_v1.1.ipa",
           "localizedDescription": "An iOS app inspired by the ipatool project. It allows users to download, install, and share App Store applications using their Apple ID, with support for downloading older versions — no jailbreak required.
 
-- Features
- + Select an available storefronts.
- + Search for applications with name, Bundle-id, link.
-+ Ability to copy such as Bundle-id, application-id, link.
- + Multiple account support.
- + Purchase only free apps.
- + Download apps as an ipa file.
- + Download apps with older versions.
- + Each account has separate downloads.
- + Share apps as an ipa file.
- + Install apps on device.
- + Supports for non jailbroken devices.
-⚠️ Note: Installing apps directly from within the app may cause issues such as missing automatic updates. For best results, use AirDrop to install them by sharing from another device.",
+ Features
+  Select an available storefronts.
+  Search for applications with name, Bundle-id, link.
+  Ability to copy such as Bundle-id, application-id, link.
+  Multiple account support.
+  Purchase only free apps.
+  Download apps as an ipa file.
+  Download apps with older versions.
+  Each account has separate downloads.
+  Share apps as an ipa file.
+  Install apps on device.
+  Supports for non jailbroken devices.
+ Note: Installing apps directly from within the app may cause issues such as missing automatic updates. For best results, use AirDrop to install them by sharing from another device.",
           "iconURL": "https://raw.githubusercontent.com/AhmedBafkir/DLiPA/refs/heads/main/images/icon.png",
           "tintColor": "FFC300",
           "size": 480000,
