@@ -20,7 +20,7 @@
             "downloadURL": "https://github.com/realmios/library/releases/download/ipa/Filza_4.0.0.ipa",
             "size": 13900000
         },
-        {
+       {
           "name": "DLiPA",
           "subtitle": "Download iPA and install it directly on iPhone",
           "bundleIdentifier": "com.ahmedbafkir.dlipa",
@@ -28,7 +28,7 @@
           "version": "1.1",
           "versionDate": "2025-06-08",
           "downloadURL": "https://github.com/AhmedBafkir/DLiPA/releases/download/v1.1/DLiPA_v1.1.ipa",
-          "localizedDescription": "An iOS app inspired by the ipatool project. It allows users to download, install, and share App Store applications using their Apple ID, with support for downloading older versions — no jailbreak required.",
+          "localizedDescription": "An iOS app inspired by the ipatool project. It allows users to download, install, and share App Store applications using their Apple ID, with support for downloading older versions — no jailbreak",
           "iconURL": "https://raw.githubusercontent.com/AhmedBafkir/DLiPA/refs/heads/main/images/icon.png",
           "tintColor": "FFC300",
           "size": 480000,
