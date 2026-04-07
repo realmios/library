@@ -9,12 +9,12 @@
             "developerName": "tigisoftware",
             "iconURL": "https://filzadownload.com/wp-content/uploads/2019/06/icon.png",
             "tintColor": "000000",
-            "subtitle": "FizaCrack",
-            "localizedDescription": "Filza full active by Realm iOS",
+            "subtitle": "Filza full active by Realm iOS",
+            "localizedDescription": "Filza Jailed Darksword, hỗ trợ iOS 17.0-26.0.1 (ngoại trừ 18.7.2-18.7.7). Kho lưu trữ này là mã nguồn mở của tweak được tích hợp vào Filza iPA (phiên bản 4.0.0 trở xuống, 4.0.2 dường như gây lỗi). Về dòng iPhone 17 và iPad M5: SẼ KHÔNG HOẠT ĐỘNG do MTE. Bắt đầu từ iPhone 17 và chip M5, Apple đã thêm MTE để chặn bất kỳ ai cố gắng truy cập krw, vì vậy nó sẽ không hoạt động (ít nhất là hiện tại, hy vọng ai đó sẽ thực sự tìm ra cách vượt qua MTE).",
             "screenshotURLs": [
-                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijq7gDY2ov-YyeJaJeG0zmTuDTej7ZM0kHunTv9kz4YROlq9roN_EitAIBxhOsFy1TgVrCkpGvTvP4ylQT_OfaMd86z8EIb08jVG6p5SInsbr2bOn-RrEHRoBaIboZhX7KmmcFAKaBMZTmL58EOzuv2WF7itDJSuhLJQL3TMRpvwWFPZThUUsDW4A_B687/w720-h310-rw/IMG_5415.png"
-                 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAlopHPehn6ZGy0veNQFsXJLjkStaRdcdKXWBWr3ICKdYGYUzYIZQuq0zMtBcJBqQnK7W0ACXWP3fVRNPAlO_1f4elIS9FgatExwPjBynAM7tVMx0pk8cscsI-10h7nWiECmW7wUMf4ED8BQA1BTMd2ZSeiXpkdocmt2GLdJa3m1oACmqQlJ7d6C-JvmXD/w720-h310-rw/IMG_5416.png"
-                 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5em7EE2YPHoR3fPDxjbgy5dLpguoY7EEiA0W8dnMLw82Ybnfcjn1c1hjKx5YoKfhvuZcRT59SRKJ_DtoIGJ3JwvCPdANjBzHDIKczPOF-oZKbCBVsnRPFbX_trrU_5GariY32PWffzO9rGFYHL8f_2rV3pL96bz7xuqo_XAEeJol4noDH5jmEsSEwTRZC/w720-h310-rw/IMG_5417.png"
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijq7gDY2ov-YyeJaJeG0zmTuDTej7ZM0kHunTv9kz4YROlq9roN_EitAIBxhOsFy1TgVrCkpGvTvP4ylQT_OfaMd86z8EIb08jVG6p5SInsbr2bOn-RrEHRoBaIboZhX7KmmcFAKaBMZTmL58EOzuv2WF7itDJSuhLJQL3TMRpvwWFPZThUUsDW4A_B687/w720-h310-rw/IMG_5415.png",
+                 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAlopHPehn6ZGy0veNQFsXJLjkStaRdcdKXWBWr3ICKdYGYUzYIZQuq0zMtBcJBqQnK7W0ACXWP3fVRNPAlO_1f4elIS9FgatExwPjBynAM7tVMx0pk8cscsI-10h7nWiECmW7wUMf4ED8BQA1BTMd2ZSeiXpkdocmt2GLdJa3m1oACmqQlJ7d6C-JvmXD/w720-h310-rw/IMG_5416.png",
+                 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5em7EE2YPHoR3fPDxjbgy5dLpguoY7EEiA0W8dnMLw82Ybnfcjn1c1hjKx5YoKfhvuZcRT59SRKJ_DtoIGJ3JwvCPdANjBzHDIKczPOF-oZKbCBVsnRPFbX_trrU_5GariY32PWffzO9rGFYHL8f_2rV3pL96bz7xuqo_XAEeJol4noDH5jmEsSEwTRZC/w720-h310-rw/IMG_5417.png",
                  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5FS7xy6LQhBqFFUDnL07YwMvnVr8ep30DGzjEtLui0fcnUhdCiUivgSE50M2GYwSy0zv-NbZfy4-QKZKwlboZZKn4JoTuKrnvjEqgj18XkopuVgnVQOpKpeczfQ5ogpaKMlNzJY7Kl5-9rx5spSyWlq8RNwgjD1T8W3YBCmIiU7F0Z7MTNZzq0t0kellG/w720-h310-rw/IMG_5418.png"
             ],
             "version": "4.0",
